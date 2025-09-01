@@ -1,4 +1,4 @@
-Products dashboard App
+## Products dashboard App
 
 This is a simple React application for managing products.  
 You can view, search, add, edit, and delete products.  
