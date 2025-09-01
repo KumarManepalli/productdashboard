@@ -1,4 +1,4 @@
-# Weecom Product Management App
+Products dashboard App
 
 This is a simple React application for managing products.  
 You can view, search, add, edit, and delete products.  
@@ -40,6 +40,7 @@ project/
 ```
 
 ## How to Run
+  cd project
 
 1. **Install dependencies:**
 
